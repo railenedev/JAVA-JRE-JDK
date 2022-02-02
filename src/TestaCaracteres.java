@@ -11,7 +11,7 @@ public static void main(String[] args ) {
 	valor = (char) (valor + 1);
 	System.out.println(valor);
 	
-	String palavra = "alura cursos online de tecnologia";
+	String palavra = "alura cursos online de tecnologia ";
 	System.out.println(palavra);
 	
 	palavra = palavra + 2020;
